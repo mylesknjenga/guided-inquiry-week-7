@@ -1,1 +1,1 @@
-# guided-inquiry-week-7
+# guided-inquiry-week-7 - Advanced CSS
