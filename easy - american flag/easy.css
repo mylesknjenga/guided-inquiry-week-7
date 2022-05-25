@@ -1,0 +1,31 @@
+.top-section {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.star-table {
+    background-color: blue;
+    padding: 10px;
+}
+.fa-star {
+    color: #ffffff;
+}
+.space {
+    width: 20px;
+}
+
+.short-red-stripes {
+    width: 100%;
+    border: 2px solid black;
+}
+
+.red {
+    background-color: red;
+}
+
+.stripes {
+    width: 100%;
+}
+
+.stripes tr{
+    height: 30px;
+}

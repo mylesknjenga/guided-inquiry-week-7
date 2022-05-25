@@ -4,7 +4,21 @@
     margin: 0;
 }
 
-.board {
+ table {
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.black {
+    background-color: #000000;
+}
+td {
+    height: 100px;
+    width: 100px;
+}
+
+/* BONUS: USE DIVS ONLY */
+
+/* .board {
     display: grid;
     justify-content: center;
     align-content: center;
@@ -20,7 +34,6 @@
     display: grid;
     grid-template-rows: repeat(8, 100px);
 }
-
 .black {
     background-color: #000000;
-}
+} */
